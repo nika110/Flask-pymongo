@@ -1,3 +1,4 @@
-# TO Run
-## $ export FLASK_APP=hello.py
+# To Run:
+
+## $ export FLASK_APP=main.py
 ## $ flask run
